@@ -8,6 +8,7 @@
  - username;
  - password;
  - idrole.
+
 Таблица 'role' характерезуется следующими параметрами:
  - idrole;
  - name.
